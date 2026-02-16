@@ -1,8 +1,13 @@
 -- How does weekday vs weekend sales performance compare?
 
 SELECT 
-    d.day_type,
-    SUM(f.total_amount) AS total_sales
-FROM fact_sales_normalized as f
-inner JOIN dim_dates d ON f.sales_date = d.full_date
-GROUP BY d.day_type;
+    EXTRACT(MONTH FROM sales_date) as month,
+    CASE 
+        WHEN EXTRACT(DOW FROM sales_date) IN (0,6)
+            THEN 'Weekend'
+        ELSE 'Weekday'
+    END AS day_type,
+    SUM(total_amount) AS total_revenue
+FROM fact_sales_normalized
+GROUP BY day_type,month
+ORDER BY month, day_type
