@@ -1,3 +1,6 @@
+-- Do campaigns significantly increase sales volume?
+
+
 SELECT
     CASE
         WHEN campaign_sk IS NULL THEN 'Without Campaign'
