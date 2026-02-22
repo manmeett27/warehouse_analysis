@@ -8,6 +8,6 @@
     FROM dim_customers as c
     INNER JOIN fact_sales_normalized as fact 
         ON c.customer_sk = fact.customer_sk
-    GROUP BY customer_name
+    GROUP BY CONCAT(first_name, ' ', last_name)
     ORDER BY total_spend DESC
-    LIMIT 10
+    OFFSET 0 ROWS FETCH NEXT 10 ROWS ONLY;
