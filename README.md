@@ -249,7 +249,55 @@ Most successful products of the year:
 - Revenue Generated: **$940.06 Million**  
 - Driven by **high ROI campaigns, strong customer engagement, and effective sales strategies**.
 
----
+![Dashboard](asset/2024.png)
+
+## 📉 Underperformance Analysis (Quarter 1 – Weak Performance Review)
+### 📌 Overview
+Quarter 1 was identified as the weakest-performing quarter of the year, with comparatively low revenue, limited campaign investment, and weaker customer engagement.
+
+### 🏷️ Low-Performing Brands
+Brands generating the lowest revenue in Quarter 1:
+- Godrej Interio  
+- Amul
+- Decathlon  
+- Apple  
+- Nestlé  
+- Sony  
+- Revenue Range: **$11.5M – $11.7M**  
+- Indicates limited brand contribution during this quarter.
+- 
+### 💰 Campaign Investment
+- Average Campaign Budget: ~**$200K**  
+- Low investment resulted in reduced market reach and weaker campaign impact.
+
+### 📦 Low-Performing Products
+Products with minimal revenue contribution:
+- Training Shorts  
+- Nestlé Cornflakes  
+- Adidas Three Stripes  
+- Revenue Range: **$1.54M – $1.56M**
+- Shows low customer demand for these products.
+
+### 🧩 Underperforming Customer Segments
+Customer segments with low purchasing activity:
+- In-Store Regulars  
+- Occasional Shoppers  
+- First-Time Buyers  
+- These segments showed low engagement and spending behavior.
+
+### 👔 Sales Team Performance
+- Senior Sales Executives recorded the lowest sales.
+- Revenue Contribution: ~**$80.4M** 
+- Indicates the need for performance improvement and training.
+
+### 🌍 Low-Performing City
+- City: Chicago  
+- Revenue: **$33.25M**  
+- Lowest regional contribution in Quarter 1.
+
+![dashboard](asset/2024(less))
 
 ## ✅ Final Summary
 The year 2024 showed outstanding business performance with strong customer retention, high campaign efficiency, and steady revenue growth. Quarter 3 emerged as the strongest quarter, supported by impactful campaigns and top-performing sales teams. Continued focus on high-value customers, leading brands, and successful product categories will help sustain future growth.
+
+Quarter 1 underperformed due to low campaign investment, weak product demand, and limited customer engagement. Increasing marketing budgets, improving product positioning, and strengthening sales team performance can help enhance future results.
