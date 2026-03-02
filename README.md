@@ -295,7 +295,7 @@ Customer segments with low purchasing activity:
 - Revenue: **$33.25M**  
 - Lowest regional contribution in Quarter 1.
 
-![dashboard](asset/2024(Less))
+![dashboard](asset/2024(Less).png)
 
 ## ✅ Final Summary
 The year 2024 showed outstanding business performance with strong customer retention, high campaign efficiency, and steady revenue growth. Quarter 3 emerged as the strongest quarter, supported by impactful campaigns and top-performing sales teams. Continued focus on high-value customers, leading brands, and successful product categories will help sustain future growth.
