@@ -72,6 +72,7 @@ The dataset includes detailed records of customers, products, sales transactions
 - Salespersons
 - Managers
 - Senior Salesmen
+![Dashboard](asset/Q1.png)
 
 ## 📈 Quarter 2
 ### 👥 Customer Performance
@@ -113,6 +114,7 @@ The dataset includes detailed records of customers, products, sales transactions
 - Sales Associates  
 - Salespersons  
 - Managers  
+![Dashboard](asset/Q2.png)
 
 ## 📈 Quarter 3
 ### 👥 Customer Performance
@@ -161,6 +163,7 @@ The dataset includes detailed records of customers, products, sales transactions
 - Salespersons  
 - Managers  
 - Senior Sales  
+![Dashboard](asset/Q3.png)
 
 ## 📈 Quarter 4
 ### 👥 Customer Performance
@@ -210,4 +213,43 @@ The dataset includes detailed records of customers, products, sales transactions
 - Sales Associates(**226 Million**)  
 - Salespersons(**221 Million**)
 - Managers(**215 Million**)  
-- Senior Salespersons(**193 Million**)  
+- Senior Salespersons(**193 Million**)
+![Dashboard](asset/Q4.png)
+
+## 📌 Yearly Conclusion (2024 Performance Summary)
+### 👥 Overall Customer & Sales Performance
+- Best Performers: **Sales Associates**
+- Top Performing City: Louisville (Highest Sales Contribution **with $71.46Million**)  
+- Repeated Customers: ~**100K** 
+- Indicates strong customer loyalty and sales execution.
+
+### 💰 Financial Highlights
+- Total Revenue (2024): **$2.7 Billion** 
+- Total Campaign ROI: **96.78**  
+- Average Customer Spending (Yearly): **$27.15K**  
+- Demonstrates strong profitability and consistent growth.
+
+### 🏷️ Best Performing Brands
+Top revenue-generating brands:
+- Nike(**$185Million**)
+- Samsung(**$184Million**)  
+- LG(**$183Million**)  
+- Puma(**$183Million**)  
+
+### 📦 Best Performing Products
+Most successful products of the year:
+- Running Shoes  
+- Yoga Mats  
+- Tennis Rackets  
+- Footballs  
+- Tennis Shoes  
+
+### 📈 Best Performing Quarter
+- Quarter 3 was the top-performing quarter of the year.
+- Revenue Generated: **$940.06 Million**  
+- Driven by **high ROI campaigns, strong customer engagement, and effective sales strategies**.
+
+---
+
+## ✅ Final Summary
+The year 2024 showed outstanding business performance with strong customer retention, high campaign efficiency, and steady revenue growth. Quarter 3 emerged as the strongest quarter, supported by impactful campaigns and top-performing sales teams. Continued focus on high-value customers, leading brands, and successful product categories will help sustain future growth.
